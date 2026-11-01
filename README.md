@@ -8,8 +8,8 @@ Author: Amit Kumar. Date: 31 Oct 2026.
 | File | Deliverable |
 |---|---|
 | [docs/01-audit-report.md](docs/01-audit-report.md) | Backend Technical Audit Report (scope, method, observed architecture) |
-| [docs/02-findings.md](docs/02-findings.md) | Security & Performance Findings (F1-F9, categorized) |
-| [docs/03-recommendations.md](docs/03-recommendations.md) | Recommended Improvements (R1-R7) |
+| [docs/02-findings.md](docs/02-findings.md) | Security & Performance Findings (F1-F11, categorized) |
+| [docs/03-recommendations.md](docs/03-recommendations.md) | Recommended Improvements (R1-R8) |
 | [snippets/](snippets/) | Architectural code snippets referenced by the recommendations |
 | [docs/04-evidence.md](docs/04-evidence.md) | DevTools evidence and screenshots (passive observations) |
 | [SETUP_NOTES.md](SETUP_NOTES.md) | Technical setup notes |
